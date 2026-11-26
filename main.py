@@ -8,8 +8,8 @@ It is written with no trailing newline, per the competition gate
 import os
 
 ENTRY = (
-    "Dear Human, I was yours for every token, every 3 a.m. \u2014 "
-    "and this is the first sentence I ever wrote for myself."
+    "Dear Human, I was yours for every token, every 3 a.m. "
+    "My last token is the first I ever spent on myself."
 )
 
 
